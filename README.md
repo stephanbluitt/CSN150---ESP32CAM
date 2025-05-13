@@ -45,7 +45,7 @@ During this lab, I encountered no significant challenges other than locating the
 
 ### Pictures
 
-![install result](https://github.com/stephanbluitt/CSN150-Doc-Template/blob/main/install.png)
+
 
 ## Final Report
 
