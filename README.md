@@ -45,6 +45,14 @@ During this lab, I encountered no significant challenges other than locating the
 
 ### Pictures
 
+IMG_4200.HEIC
+IMG_4201.HEIC
+IMG_4202.HEIC
+IMG_4203.HEIC
+IMG_4204.HEIC
+IMG_4206.HEIC
+IMG_4207.HEIC
+IMG_4208.HEIC
 
 
 ## Final Report
