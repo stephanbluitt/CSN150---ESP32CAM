@@ -44,14 +44,15 @@ NOTE: the camera should be axis via device in the same network we programmed the
 During this lab, I encountered no significant challenges other than locating the serial monitor tap. In my case, it was situated on the top right corner of the program interface, where I could enable it. Subsequently, I discovered the BAUD tap, which allowed me to modify the baud rate and monitor the address and Wi-Fi connectivity status.
 
 ### Pictures
-![image alt](https://github.com/stephanbluitt/CSN150---ESP32CAM/edit/main/README.md#:~:text=IMG_4200.HEIC)
-![image alt](https://github.com/stephanbluitt/CSN150---ESP32CAM/edit/main/README.md#:~:text=IMG_4201.HEIC)
-![image alt](https://github.com/stephanbluitt/CSN150---ESP32CAM/edit/main/README.md#:~:text=IMG_4202.HEIC)
-![image alt](https://github.com/stephanbluitt/CSN150---ESP32CAM/edit/main/README.md#:~:text=IMG_4203.HEIC)
-![image alt](https://github.com/stephanbluitt/CSN150---ESP32CAM/edit/main/README.md#:~:text=IMG_4204.HEIC)
-![image alt](https://github.com/stephanbluitt/CSN150---ESP32CAM/edit/main/README.md#:~:text=IMG_4206.HEIC)
-![image alt](https://github.com/stephanbluitt/CSN150---ESP32CAM/edit/main/README.md#:~:text=IMG_4207.HEIC)
-![image alt](https://github.com/stephanbluitt/CSN150---ESP32CAM/edit/main/README.md#:~:text=IMG_4208.HEIC)
+
+- [IMG_4200.HEIC](IMG_4200.HEIC)
+- [IMG_4201.HEIC](IMG_4201.HEIC)
+- [IMG_4202.HEIC](IMG_4202.HEIC)
+- [IMG_4203.HEIC](IMG_4203.HEIC)
+- [IMG_4204.HEIC](IMG_4204.HEIC)
+- [IMG_4206.HEIC](IMG_4206.HEIC)
+- [IMG_4207.HEIC](IMG_4207.HEIC)
+- [IMG_4208.HEIC](IMG_4208.HEIC)
 
 
 
