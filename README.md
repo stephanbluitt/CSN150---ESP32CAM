@@ -43,18 +43,16 @@ NOTE: the camera should be axis via device in the same network we programmed the
 
 During this lab, I encountered no significant challenges other than locating the serial monitor tap. In my case, it was situated on the top right corner of the program interface, where I could enable it. Subsequently, I discovered the BAUD tap, which allowed me to modify the baud rate and monitor the address and Wi-Fi connectivity status.
 
-### Pictures
+## Project Images
 
-- [IMG_4200.HEIC](IMG_4200.HEIC)
-- [IMG_4201.HEIC](IMG_4201.HEIC)
-- [IMG_4202.HEIC](IMG_4202.HEIC)
-- [IMG_4203.HEIC](IMG_4203.HEIC)
-- [IMG_4204.HEIC](IMG_4204.HEIC)
-- [IMG_4206.HEIC](IMG_4206.HEIC)
-- [IMG_4207.HEIC](IMG_4207.HEIC)
-- [IMG_4208.HEIC](IMG_4208.HEIC)
-
-
+![Description for Image 1](IMG_4200.HEIC)
+![Description for Image 2](IMG_4201.HEIC)
+![Description for Image 3](IMG_4202.HEIC)
+![Description for Image 4](IMG_4203.HEIC)
+![Description for Image 5](IMG_4204.HEIC)
+![Description for Image 6](IMG_4206.HEIC)
+![Description for Image 7](IMG_4207.HEIC)
+![Description for Image 8](IMG_4208.HEIC)
 
 ## Final Report
 
